@@ -1,0 +1,121 @@
+{
+  "happy": {
+    "display": "Happy",
+    "songs": [
+      {"title": "Happy - Pharrell Williams", "src": "https://www.youtube.com/embed/ZbZSe6N_BXs"},
+      {"title": "Can't Stop The Feeling - Justin Timberlake", "src": "https://www.youtube.com/embed/ru0K8uYEZWw"},
+      {"title": "Good Time - Owl City & Carly Rae Jepsen", "src": "https://www.youtube.com/embed/H7HmzwI67ec"},
+      {"title": "Best Day Of My Life - American Authors", "src": "https://www.youtube.com/embed/Y66j_BUCBMY"},
+      {"title": "Sugar - Maroon 5", "src": "https://www.youtube.com/embed/09R8_2nJtjg"},
+      {"title": "TALK - A Little Bit Happy", "src": "https://www.youtube.com/embed/5hyIC0NIECY"},
+      {"title": "Good As Hell - Lizzo", "src": "https://www.youtube.com/embed/SmbmeOgWsqE"},
+      {"title": "On Top of the World - Imagine Dragons", "src": "https://www.youtube.com/embed/w5tWYmIOWGk"},
+      {"title": "Firework - Katy Perry", "src": "https://www.youtube.com/embed/QGJuMBdaqIw"},
+      {"title": "Walking On Sunshine - Katrina & The Waves", "src": "https://www.youtube.com/embed/iPUmE-tne5U"}
+    ],
+    "quotes": [
+      {"text": "You glow differently when you're happy."},
+      {"text": "Collect moments, not things."},
+      {"text": "Smiles are contagious — spread one."},
+      {"text": "Happiness is homemade."},
+      {"text": "Let your light shine."},
+      {"text": "The sun always rises again."},
+      {"text": "Do more things that make you forget to check your phone."},
+      {"text": "Joy is not in things, it’s in us."},
+      {"text": "Radiate positivity, even on quiet days."},
+      {"text": "Life is better when you’re laughing."}
+    ],
+    "bg": "linear-gradient(120deg,#1e1b4b 0%,#312e81 100%)"
+
+  },
+
+  "sad": {
+    "display": "Sad",
+    "songs": [
+      {"title": "Someone Like You - Adele", "src": "https://www.youtube.com/embed/hLQl3WQQoQ0"},
+      {"title": "Fix You - Coldplay", "src": "https://www.youtube.com/embed/k4V3Mo61fJM"},
+      {"title": "When I Was Your Man - Bruno Mars", "src": "https://www.youtube.com/embed/ekzHIouo8Q4"},
+      {"title": "Let Her Go - Passenger", "src": "https://www.youtube.com/embed/RBumgq5yVrA"},
+      {"title": "Say Something - A Great Big World ft. Christina Aguilera", "src": "https://www.youtube.com/embed/-2U0Ivkn2Ds"},
+      {"title": "All I Want - Kodaline", "src": "https://www.youtube.com/embed/mtf7hC17IBM"},
+      {"title": "Jealous - Labrinth", "src": "https://www.youtube.com/embed/50VWOBi0VFs"},
+      {"title": "Lose You To Love Me - Selena Gomez", "src": "https://www.youtube.com/embed/zlJDTxahav0"},
+      {"title": "Crying Alone - Sad & Emotional Piano Song Instrumental", "src": "https://www.youtube.com/embed/zMvCfm_AjYo"},
+      {"title": "Let It Go - James Bay", "src": "https://www.youtube.com/embed/GsPq9mzFNGY"}
+    ],
+    "quotes": [
+      {"text": "Tears are words the heart can’t say."},
+      {"text": "Even broken crayons still color."},
+      {"text": "It’s okay to outgrow people who don’t grow with you."},
+      {"text": "Crying doesn’t mean you’re weak, it means you’ve been strong too long."},
+      {"text": "Rain is just the sky crying with you."},
+      {"text": "You heal differently when you’re gentle with yourself."},
+      {"text": "Not every storm comes to destroy you; some come to clear your path."},
+      {"text": "Even the moon goes through phases — you will feel whole again."},
+      {"text": "Silence sometimes says what words never can."},
+      {"text": "Let your sadness teach you softness."}
+    ],
+    "bg": "linear-gradient(120deg,#1e1b4b 0%,#312e81 100%)"
+
+  },
+
+  "calm": {
+    "display": "Calm",
+    "songs": [
+      {"title": "Weightless - Marconi Union", "src": "https://www.youtube.com/embed/UfcAVejslrU"},
+      {"title": "Bloom - The Paper Kites", "src": "https://www.youtube.com/embed/8inJtTG_DuU"},
+      {"title": "Ocean Breeze", "src": "https://www.youtube.com/embed/FOIjvHjK0Rw"},
+      {"title": "River Flows in You - Yiruma", "src": "https://www.youtube.com/embed/7maJOI3QMu0"},
+      {"title": "Feels Like Home", "src": "https://www.youtube.com/embed/jzAxf1t9b-k"},
+      {"title": "Night Owl - Galimatias", "src": "https://www.youtube.com/embed/UtF6Jej8yb4"},
+      {"title": "All Time Low: Calm Down", "src": "https://www.youtube.com/embed/YYoJY79obwA"},
+      {"title": "Kiss The Rain - Yiruma", "src": "https://www.youtube.com/embed/so6ExplQlaY"},
+      {"title": "Authentic Success", "src": "https://www.youtube.com/embed/6AkJqXFWxxg"},
+      {"title": "QUIET (Acoustic)", "src": "https://www.youtube.com/embed/J_C5Vch_qTg"}
+    ],
+    "quotes": [
+      {"text": "Peace is found within, not around."},
+      {"text": "Slow down. You’re doing fine."},
+      {"text": "Inhale calm, exhale chaos."},
+      {"text": "Your mind will quiet when your heart feels safe."},
+      {"text": "Still waters reflect the most."},
+      {"text": "You deserve the kind of calm that feels like home."},
+      {"text": "Let today be gentle."},
+      {"text": "Even clouds rest before they rain."},
+      {"text": "Grace is a slow exhale."},
+      {"text": "Breathe. You are already enough."}
+    ],
+    "bg": "linear-gradient(120deg,#1e1b4b 0%,#312e81 100%)"
+
+  },
+
+  "stressed": {
+    "display": "Stressed",
+    "songs": [
+      {"title": "twenty one pilots: Stressed Out ", "src": "https://www.youtube.com/embed/pXRviuL6vMY"},
+      {"title": "Let It Be - The Beatles", "src": "https://www.youtube.com/embed/QDYfEBY9NM4"},
+      {"title": "Shake It Out - Florence + The Machine", "src": "https://www.youtube.com/embed/WbN0nX61rIs"},
+      {"title": "Brave - Sara Bareilles", "src": "https://www.youtube.com/embed/QUQsqBqxoR4"},
+      {"title": "Unwritten - Natasha Bedingfield", "src": "https://www.youtube.com/embed/b7k0a5hYnSI"},
+      {"title": "Rise Up - Andra Day", "src": "https://www.youtube.com/embed/kNKu1uNBVkU"},
+      {"title": "Beautiful Day - U2", "src": "https://www.youtube.com/embed/co6WMzDOh1o"},
+      {"title": "Don’t Worry Be Happy - Bobby McFerrin", "src": "https://www.youtube.com/embed/d-diB65scQU"},
+      {"title": "Stronger (What Doesn’t Kill You) - Kelly Clarkson", "src": "https://www.youtube.com/embed/Xn676-fLq7I"},
+      {"title": "NF - My Stress ", "src": "https://www.youtube.com/embed/1O1tj2phCQY"}
+    ],
+    "quotes": [
+      {"text": "You are allowed to rest, not quit."},
+      {"text": "The storm will pass, just don’t let go of your umbrella."},
+      {"text": "One step at a time is still progress."},
+      {"text": "Breathe — you’ve done harder things before."},
+      {"text": "The sun will rise, and so will you."},
+      {"text": "Pause. Reset. Try again."},
+      {"text": "You’ve survived 100% of your worst days."},
+      {"text": "You’re not behind — you’re on your own path."},
+      {"text": "Resting is part of the process too."},
+      {"text": "Courage is quiet when confidence feels loud."}
+    ],
+    "bg": "linear-gradient(120deg,#1e1b4b 0%,#312e81 100%)"
+
+  }
+}
